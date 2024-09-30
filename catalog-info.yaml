@@ -7,12 +7,6 @@ metadata:
   description: Test
   productType: software product
   organization: group:default/ssg
-  annotations:
-    backstage.io/managed-by-location: url:software-catalog/component:default/testproduct
-    backstage.io/managed-by-origin-location: url:software-catalog/component:default/testproduct
-    backstage.io/view-url: software-catalog/component:default/testproduct
-    hub/updated-date: 2024-07-22T11:11:22.029Z
-    hub/created-date: 2024-07-22T11:11:22.029Z
 spec:
   type: product
   lifecycle: initiation

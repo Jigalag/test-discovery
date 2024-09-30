@@ -2,8 +2,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  title: TestProduct
-  name: test-yaml-product
+  title: TestDiscovery
+  name: test-yaml-discovery-product
   description: Test
   productType: software product
   organization: group:default/ssg
